@@ -15,6 +15,12 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=black)
+![HTML](https://img.shields.io/badge/html-F7DF1E?style=for-the-badge&logo=html&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS&logoColor=black)
+![TypeScript](https://img.shields.io/badge/typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
+![SQL](https://img.shields.io/badge/sql-F7DF1E?style=for-the-badge&logo=sql&logoColor=black)
+![Express.js](https://img.shields.io/badge/express.js-F7DF1E?style=for-the-badge&logo=express.js&logoColor=black)
+![Angular](https://img.shields.io/badge/angular-F7DF1E?style=for-the-badge&logo=angular&logoColor=black)
 
 ### Connect with me
 [LinkedIn](https://linkedin.com/in/mohit-b37715243) • [My Scrimba Profile](https://scrimba.com/@onemoremohit) • [My Favorite Scrimba Course](https://scrimba.com/fullstack-path-c0fullstack-?via=u439fa72)
